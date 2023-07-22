@@ -18,3 +18,7 @@ the website protocal is the string before the link starts (default https)
 the threads is how many threads will be used in order to spam requests
 
 while spamming a link, your internet might lag or stop entirely. You can solve this by shutting it down, and trying again with less threads 
+
+# credits
+https://github.com/TheSpeedX/PROXY-List - proxy lists
+https://gist.github.com/pzb - list of user agents
